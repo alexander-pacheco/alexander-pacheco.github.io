@@ -10,7 +10,7 @@ locale                   : "en-Peru"
 title                    : "Alexander Pacheco"
 title_separator          : "-"
 name                     : &name "Alexander Pacheco"
-description              : &description "Economics researcher | M.Sc. student at Universidad de San Andrés"
+description              : &description "Economics researcher. M.Sc. student at Universidad de San Andrés"
 url                      : https://alexander-pacheco.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "alexander-pacheco/alexander-pacheco.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Alexander Pacheco"
   avatar           : "alexander_pacheco_foto.jpg"
-  bio              : "Economics student at Pontifical Catholic University of Peru"
+  bio              : "Economics researcher | M.Sc. student at Universidad de San Andrés"
   location         : "Lima, Peru"
   employer         :
   pubmed           : 
